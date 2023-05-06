@@ -1,0 +1,28 @@
+.navright a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: beige;
+}
+.profile{
+   text-align: center;
+    margin-top: 50px;
+}
+#profile_photo{
+    border-radius: 50%;
+    border-style: groove;
+}
+.profile p{
+    
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #f2f2f5;
+    font-size: 20px;
+}
+.follow{
+    text-align: center;
+}
+#gmail{
+    width: 50px;
+}
