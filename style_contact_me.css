@@ -1,0 +1,26 @@
+form{
+    margin-top: 10%;
+}
+input{
+    width: 20%;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #fafaf8;
+    border-color: hwb(0 96% 3%);
+    color: #fafaf8;
+
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    
+}
+#message{
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    color: #fafaf8;
+}
+#send{
+    color: #fafaf8;
+    width: 100px;
+}
