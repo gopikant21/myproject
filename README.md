@@ -1,2 +1,2 @@
 # myproject
-This is my first project trying to publice on internet.
+This is my first project trying to publish on internet.
